@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-My name is Ove Ronny and I`m an selvtaught developer primarly in c# and blazor. 
+My name is **Ove Ronny**, and I'm a self-taught developer, primarily working with **C#** and **Blazor**.
 
-- 🔭 I’m currently working on to add more on serviceapp that its in public repository
-- 🌱 I’m currently learning Javascript
-- ⚡ Fun fact: I began my programming journey after turning 40—and I love it!”
-- ⚡ Fun fact: I proved it’s never too late to learn programming!
+- 🔭 I’m currently adding more features to my **ServiceApp**, which is in a public repository  
+- 🌱 I’m currently learning **JavaScript**  
+- ⚡ Fun fact: I began my programming journey **after turning 40**—and I love proving it’s never too late to learn!
 <!--
 **OveRonny/OveRonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
